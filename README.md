@@ -4,8 +4,8 @@
 
 </br>
 
-![jwjinn's github stats](https://github-readme-stats.vercel.app/api?username=jwjinn&show_icons=true&theme=merko)
+[![jwjinn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjinn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
-[![jwjinn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjinn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![jwjinn's github stats](https://github-readme-stats.vercel.app/api?username=jwjinn&show_icons=true&theme=merko)
